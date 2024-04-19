@@ -1,0 +1,15 @@
+D:\Projects\C#\Lesson\Переключатели\Переключатели\bin\Debug\net8.0\Переключатели.exe
+D:\Projects\C#\Lesson\Переключатели\Переключатели\bin\Debug\net8.0\Переключатели.deps.json
+D:\Projects\C#\Lesson\Переключатели\Переключатели\bin\Debug\net8.0\Переключатели.runtimeconfig.json
+D:\Projects\C#\Lesson\Переключатели\Переключатели\bin\Debug\net8.0\Переключатели.dll
+D:\Projects\C#\Lesson\Переключатели\Переключатели\bin\Debug\net8.0\Переключатели.pdb
+D:\Projects\C#\Lesson\Переключатели\Переключатели\obj\Debug\net8.0\Переключатели.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Lesson\Переключатели\Переключатели\obj\Debug\net8.0\Переключатели.AssemblyInfoInputs.cache
+D:\Projects\C#\Lesson\Переключатели\Переключатели\obj\Debug\net8.0\Переключатели.AssemblyInfo.cs
+D:\Projects\C#\Lesson\Переключатели\Переключатели\obj\Debug\net8.0\Переключатели.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Lesson\Переключатели\Переключатели\obj\Debug\net8.0\Переключатели.sourcelink.json
+D:\Projects\C#\Lesson\Переключатели\Переключатели\obj\Debug\net8.0\Переключатели.dll
+D:\Projects\C#\Lesson\Переключатели\Переключатели\obj\Debug\net8.0\refint\Переключатели.dll
+D:\Projects\C#\Lesson\Переключатели\Переключатели\obj\Debug\net8.0\Переключатели.pdb
+D:\Projects\C#\Lesson\Переключатели\Переключатели\obj\Debug\net8.0\Переключатели.genruntimeconfig.cache
+D:\Projects\C#\Lesson\Переключатели\Переключатели\obj\Debug\net8.0\ref\Переключатели.dll
