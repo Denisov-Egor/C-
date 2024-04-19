@@ -8,9 +8,10 @@ namespace MyApp
         {
             Random random = new Random();
 
-            int nam = random.Next(1, 7);
+            //int num = random.Next(1, 7);
+            double num = random.NextDouble();
 
-            Console.WriteLine(nam);
+            Console.WriteLine(num);
         }
     }
 }
