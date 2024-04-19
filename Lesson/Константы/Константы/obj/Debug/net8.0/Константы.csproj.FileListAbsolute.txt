@@ -1,0 +1,14 @@
+D:\Projects\C#\Lesson\Константы\Константы\bin\Debug\net8.0\Константы.exe
+D:\Projects\C#\Lesson\Константы\Константы\bin\Debug\net8.0\Константы.deps.json
+D:\Projects\C#\Lesson\Константы\Константы\bin\Debug\net8.0\Константы.runtimeconfig.json
+D:\Projects\C#\Lesson\Константы\Константы\bin\Debug\net8.0\Константы.dll
+D:\Projects\C#\Lesson\Константы\Константы\bin\Debug\net8.0\Константы.pdb
+D:\Projects\C#\Lesson\Константы\Константы\obj\Debug\net8.0\Константы.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Lesson\Константы\Константы\obj\Debug\net8.0\Константы.AssemblyInfoInputs.cache
+D:\Projects\C#\Lesson\Константы\Константы\obj\Debug\net8.0\Константы.AssemblyInfo.cs
+D:\Projects\C#\Lesson\Константы\Константы\obj\Debug\net8.0\Константы.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Lesson\Константы\Константы\obj\Debug\net8.0\Константы.dll
+D:\Projects\C#\Lesson\Константы\Константы\obj\Debug\net8.0\refint\Константы.dll
+D:\Projects\C#\Lesson\Константы\Константы\obj\Debug\net8.0\Константы.pdb
+D:\Projects\C#\Lesson\Константы\Константы\obj\Debug\net8.0\Константы.genruntimeconfig.cache
+D:\Projects\C#\Lesson\Константы\Константы\obj\Debug\net8.0\ref\Константы.dll

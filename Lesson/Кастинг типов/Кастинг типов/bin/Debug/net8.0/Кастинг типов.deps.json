@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Кастинг типов/1.0.0": {
+        "runtime": {
+          "Кастинг типов.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Кастинг типов/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

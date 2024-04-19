@@ -1,0 +1,14 @@
+D:\Projects\C#\Lesson\Переменные\Переменные\bin\Debug\net8.0\Переменные.exe
+D:\Projects\C#\Lesson\Переменные\Переменные\bin\Debug\net8.0\Переменные.deps.json
+D:\Projects\C#\Lesson\Переменные\Переменные\bin\Debug\net8.0\Переменные.runtimeconfig.json
+D:\Projects\C#\Lesson\Переменные\Переменные\bin\Debug\net8.0\Переменные.dll
+D:\Projects\C#\Lesson\Переменные\Переменные\bin\Debug\net8.0\Переменные.pdb
+D:\Projects\C#\Lesson\Переменные\Переменные\obj\Debug\net8.0\Переменные.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Lesson\Переменные\Переменные\obj\Debug\net8.0\Переменные.AssemblyInfoInputs.cache
+D:\Projects\C#\Lesson\Переменные\Переменные\obj\Debug\net8.0\Переменные.AssemblyInfo.cs
+D:\Projects\C#\Lesson\Переменные\Переменные\obj\Debug\net8.0\Переменные.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Lesson\Переменные\Переменные\obj\Debug\net8.0\Переменные.dll
+D:\Projects\C#\Lesson\Переменные\Переменные\obj\Debug\net8.0\refint\Переменные.dll
+D:\Projects\C#\Lesson\Переменные\Переменные\obj\Debug\net8.0\Переменные.pdb
+D:\Projects\C#\Lesson\Переменные\Переменные\obj\Debug\net8.0\Переменные.genruntimeconfig.cache
+D:\Projects\C#\Lesson\Переменные\Переменные\obj\Debug\net8.0\ref\Переменные.dll
