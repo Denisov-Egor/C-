@@ -1,0 +1,15 @@
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\bin\Debug\net8.0\Угадайка.exe
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\bin\Debug\net8.0\Угадайка.deps.json
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\bin\Debug\net8.0\Угадайка.runtimeconfig.json
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\bin\Debug\net8.0\Угадайка.dll
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\bin\Debug\net8.0\Угадайка.pdb
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\obj\Debug\net8.0\Угадайка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\obj\Debug\net8.0\Угадайка.AssemblyInfoInputs.cache
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\obj\Debug\net8.0\Угадайка.AssemblyInfo.cs
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\obj\Debug\net8.0\Угадайка.csproj.CoreCompileInputs.cache
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\obj\Debug\net8.0\Угадайка.sourcelink.json
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\obj\Debug\net8.0\Угадайка.dll
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\obj\Debug\net8.0\refint\Угадайка.dll
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\obj\Debug\net8.0\Угадайка.pdb
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\obj\Debug\net8.0\Угадайка.genruntimeconfig.cache
+D:\Projects\C#\MyProgram\Угадайка\Угадайка\obj\Debug\net8.0\ref\Угадайка.dll
