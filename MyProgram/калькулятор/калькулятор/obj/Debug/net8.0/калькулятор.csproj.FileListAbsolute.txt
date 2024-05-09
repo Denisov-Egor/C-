@@ -1,0 +1,15 @@
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\bin\Debug\net8.0\калькулятор.exe
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\bin\Debug\net8.0\калькулятор.deps.json
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\bin\Debug\net8.0\калькулятор.runtimeconfig.json
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\bin\Debug\net8.0\калькулятор.dll
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\bin\Debug\net8.0\калькулятор.pdb
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\obj\Debug\net8.0\калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\obj\Debug\net8.0\калькулятор.AssemblyInfoInputs.cache
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\obj\Debug\net8.0\калькулятор.AssemblyInfo.cs
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\obj\Debug\net8.0\калькулятор.csproj.CoreCompileInputs.cache
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\obj\Debug\net8.0\калькулятор.sourcelink.json
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\obj\Debug\net8.0\калькулятор.dll
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\obj\Debug\net8.0\refint\калькулятор.dll
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\obj\Debug\net8.0\калькулятор.pdb
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\obj\Debug\net8.0\калькулятор.genruntimeconfig.cache
+D:\Projects\C#\MyProgram\калькулятор\калькулятор\obj\Debug\net8.0\ref\калькулятор.dll
