@@ -1,0 +1,15 @@
+D:\Projects\C#\Lesson\массивы\массивы\bin\Debug\net8.0\массивы.exe
+D:\Projects\C#\Lesson\массивы\массивы\bin\Debug\net8.0\массивы.deps.json
+D:\Projects\C#\Lesson\массивы\массивы\bin\Debug\net8.0\массивы.runtimeconfig.json
+D:\Projects\C#\Lesson\массивы\массивы\bin\Debug\net8.0\массивы.dll
+D:\Projects\C#\Lesson\массивы\массивы\bin\Debug\net8.0\массивы.pdb
+D:\Projects\C#\Lesson\массивы\массивы\obj\Debug\net8.0\массивы.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Lesson\массивы\массивы\obj\Debug\net8.0\массивы.AssemblyInfoInputs.cache
+D:\Projects\C#\Lesson\массивы\массивы\obj\Debug\net8.0\массивы.AssemblyInfo.cs
+D:\Projects\C#\Lesson\массивы\массивы\obj\Debug\net8.0\массивы.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Lesson\массивы\массивы\obj\Debug\net8.0\массивы.sourcelink.json
+D:\Projects\C#\Lesson\массивы\массивы\obj\Debug\net8.0\массивы.dll
+D:\Projects\C#\Lesson\массивы\массивы\obj\Debug\net8.0\refint\массивы.dll
+D:\Projects\C#\Lesson\массивы\массивы\obj\Debug\net8.0\массивы.pdb
+D:\Projects\C#\Lesson\массивы\массивы\obj\Debug\net8.0\массивы.genruntimeconfig.cache
+D:\Projects\C#\Lesson\массивы\массивы\obj\Debug\net8.0\ref\массивы.dll
