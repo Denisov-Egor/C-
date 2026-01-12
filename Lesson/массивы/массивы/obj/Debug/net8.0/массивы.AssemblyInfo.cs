@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("массивы")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0099ff0ccd70fec5b443e0104dc5cb6bbcc1008")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60223cb93cf3af865bf9d2384055a5013a09cc6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("массивы")]
 [assembly: System.Reflection.AssemblyTitleAttribute("массивы")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

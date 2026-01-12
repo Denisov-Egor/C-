@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Угадайка")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdb848daf6996638d8532b8ad258235ee42955db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60223cb93cf3af865bf9d2384055a5013a09cc6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Угадайка")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Угадайка")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
