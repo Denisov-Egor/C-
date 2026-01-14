@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Логические операторы")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60223cb93cf3af865bf9d2384055a5013a09cc6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+680fc26db806246dc0b7ff9f4fb27d22f8ac76dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Логические операторы")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Логические операторы")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

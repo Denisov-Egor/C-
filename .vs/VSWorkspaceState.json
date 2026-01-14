@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\para",
+    "\\para\\ConsoleApp2\\ConsoleApp2",
+    "\\para\\ConsoleApp3",
+    "\\para\\ConsoleApp3\\ConsoleApp3",
+    "\\para\\ConsoleApp4",
+    "\\para\\ConsoleApp4\\ConsoleApp4"
   ],
+  "SelectedNode": "\\para\\ConsoleApp4\\ConsoleApp4\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
