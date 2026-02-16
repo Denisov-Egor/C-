@@ -1,0 +1,15 @@
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\bin\Debug\net10.0\ConsoleApp7.exe
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\bin\Debug\net10.0\ConsoleApp7.deps.json
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\bin\Debug\net10.0\ConsoleApp7.runtimeconfig.json
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\bin\Debug\net10.0\ConsoleApp7.dll
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\bin\Debug\net10.0\ConsoleApp7.pdb
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.AssemblyInfo.cs
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.sourcelink.json
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.dll
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\obj\Debug\net10.0\refint\ConsoleApp7.dll
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.pdb
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.genruntimeconfig.cache
+D:\Projects\C#\Tasks\ConsoleApp7\ConsoleApp7\obj\Debug\net10.0\ref\ConsoleApp7.dll

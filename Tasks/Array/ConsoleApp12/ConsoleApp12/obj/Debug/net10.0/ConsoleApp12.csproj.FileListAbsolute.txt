@@ -1,0 +1,15 @@
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\bin\Debug\net10.0\ConsoleApp12.exe
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\bin\Debug\net10.0\ConsoleApp12.deps.json
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\bin\Debug\net10.0\ConsoleApp12.runtimeconfig.json
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\bin\Debug\net10.0\ConsoleApp12.dll
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\bin\Debug\net10.0\ConsoleApp12.pdb
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.AssemblyInfoInputs.cache
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.AssemblyInfo.cs
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.sourcelink.json
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.dll
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\refint\ConsoleApp12.dll
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.pdb
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.genruntimeconfig.cache
+D:\Projects\C#\Tasks\Array\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ref\ConsoleApp12.dll

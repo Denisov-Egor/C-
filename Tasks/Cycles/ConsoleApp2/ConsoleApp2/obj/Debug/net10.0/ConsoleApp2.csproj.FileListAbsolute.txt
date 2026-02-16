@@ -1,0 +1,15 @@
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.exe
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.deps.json
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.runtimeconfig.json
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.dll
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.pdb
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.AssemblyInfo.cs
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.sourcelink.json
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.dll
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\refint\ConsoleApp2.dll
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.pdb
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.genruntimeconfig.cache
+D:\Projects\C#\Tasks\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ref\ConsoleApp2.dll

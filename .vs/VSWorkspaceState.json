@@ -1,13 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\para",
-    "\\para\\ConsoleApp2\\ConsoleApp2",
-    "\\para\\ConsoleApp3",
-    "\\para\\ConsoleApp3\\ConsoleApp3",
-    "\\para\\ConsoleApp4",
-    "\\para\\ConsoleApp4\\ConsoleApp4"
+    "\\Tasks",
+    "\\Tasks\\Array",
+    "\\Tasks\\Array\\ConsoleApp14\\ConsoleApp14",
+    "\\Tasks\\Array\\ConsoleApp16",
+    "\\Tasks\\Array\\ConsoleApp16\\ConsoleApp16",
+    "\\Tasks\\Array\\ConsoleApp4\\ConsoleApp4"
   ],
-  "SelectedNode": "\\para\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+  "SelectedNode": "\\Tasks\\Array\\ConsoleApp16\\ConsoleApp16\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

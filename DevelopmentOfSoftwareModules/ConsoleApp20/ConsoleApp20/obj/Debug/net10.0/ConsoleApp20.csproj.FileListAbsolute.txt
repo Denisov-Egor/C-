@@ -1,0 +1,15 @@
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\bin\Debug\net10.0\ConsoleApp20.exe
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\bin\Debug\net10.0\ConsoleApp20.deps.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\bin\Debug\net10.0\ConsoleApp20.runtimeconfig.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\bin\Debug\net10.0\ConsoleApp20.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\bin\Debug\net10.0\ConsoleApp20.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.AssemblyInfoInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.AssemblyInfo.cs
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.sourcelink.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\refint\ConsoleApp20.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ConsoleApp20.genruntimeconfig.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp20\ConsoleApp20\obj\Debug\net10.0\ref\ConsoleApp20.dll

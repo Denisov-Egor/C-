@@ -1,0 +1,15 @@
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.exe
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.deps.json
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.runtimeconfig.json
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.dll
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.pdb
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.AssemblyInfo.cs
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.sourcelink.json
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.dll
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\refint\ConsoleApp8.dll
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.pdb
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.genruntimeconfig.cache
+D:\Projects\C#\para\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ref\ConsoleApp8.dll

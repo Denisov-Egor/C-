@@ -1,0 +1,15 @@
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.exe
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.deps.json
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.runtimeconfig.json
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.dll
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.pdb
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.AssemblyInfo.cs
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.sourcelink.json
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.dll
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\refint\ConsoleApp4.dll
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.pdb
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.genruntimeconfig.cache
+D:\Projects\C#\OAP\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ref\ConsoleApp4.dll

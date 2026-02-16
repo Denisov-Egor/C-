@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\Tasks\\Array\\ConsoleApp16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C93027-E9E0-4EDC-AC82-84E5404A3D5E}|ConsoleApp16\\ConsoleApp16.csproj|d:\\projects\\c#\\tasks\\array\\consoleapp16\\consoleapp16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C93027-E9E0-4EDC-AC82-84E5404A3D5E}|ConsoleApp16\\ConsoleApp16.csproj|solutionrelative:consoleapp16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Tasks\\Array\\ConsoleApp16\\ConsoleApp16\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp16\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\Tasks\\Array\\ConsoleApp16\\ConsoleApp16\\Program.cs",
+              "RelativeToolTip": "ConsoleApp16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:30:54.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

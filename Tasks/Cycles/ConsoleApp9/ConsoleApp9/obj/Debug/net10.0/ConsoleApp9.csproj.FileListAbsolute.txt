@@ -1,0 +1,15 @@
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.exe
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.deps.json
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.runtimeconfig.json
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.dll
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.pdb
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.AssemblyInfoInputs.cache
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.AssemblyInfo.cs
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.sourcelink.json
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.dll
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\refint\ConsoleApp9.dll
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.pdb
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.genruntimeconfig.cache
+D:\Projects\C#\Tasks\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ref\ConsoleApp9.dll
