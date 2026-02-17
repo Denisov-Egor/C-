@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\Tasks\\Array\\ConsoleApp18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D21C0111-E1BC-477C-AC42-E86655540FB4}|ConsoleApp18\\ConsoleApp18.csproj|d:\\projects\\c#\\tasks\\array\\consoleapp18\\consoleapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21C0111-E1BC-477C-AC42-E86655540FB4}|ConsoleApp18\\ConsoleApp18.csproj|solutionrelative:consoleapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Tasks\\Array\\ConsoleApp18\\ConsoleApp18\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp18\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\Tasks\\Array\\ConsoleApp18\\ConsoleApp18\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp18\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:52:56.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
