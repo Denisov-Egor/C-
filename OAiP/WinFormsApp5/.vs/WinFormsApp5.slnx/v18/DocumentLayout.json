@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\OAiP\\WinFormsApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30F6D6-CC82-44E9-9385-51EFB95F4C4B}|WinFormsApp5\\WinFormsApp5.csproj|d:\\projects\\c#\\oaip\\winformsapp5\\winformsapp5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30F6D6-CC82-44E9-9385-51EFB95F4C4B}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30F6D6-CC82-44E9-9385-51EFB95F4C4B}|WinFormsApp5\\WinFormsApp5.csproj|d:\\projects\\c#\\oaip\\winformsapp5\\winformsapp5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D30F6D6-CC82-44E9-9385-51EFB95F4C4B}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30F6D6-CC82-44E9-9385-51EFB95F4C4B}|WinFormsApp5\\WinFormsApp5.csproj|d:\\projects\\c#\\oaip\\winformsapp5\\winformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30F6D6-CC82-44E9-9385-51EFB95F4C4B}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30F6D6-CC82-44E9-9385-51EFB95F4C4B}|WinFormsApp5\\WinFormsApp5.csproj|d:\\projects\\c#\\oaip\\winformsapp5\\winformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D30F6D6-CC82-44E9-9385-51EFB95F4C4B}|WinFormsApp5\\WinFormsApp5.csproj|solutionrelative:winformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\OAiP\\WinFormsApp5\\WinFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Form1.cs",
+              "ToolTip": "D:\\Projects\\C#\\OAiP\\WinFormsApp5\\WinFormsApp5\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp5\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:38:53.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\OAiP\\WinFormsApp5\\WinFormsApp5\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Form2.cs",
+              "ToolTip": "D:\\Projects\\C#\\OAiP\\WinFormsApp5\\WinFormsApp5\\Form2.cs",
+              "RelativeToolTip": "WinFormsApp5\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:37:12.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Projects\\C#\\OAiP\\WinFormsApp5\\WinFormsApp5\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Form2.cs",
+              "ToolTip": "D:\\Projects\\C#\\OAiP\\WinFormsApp5\\WinFormsApp5\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp5\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:35:00.262Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Projects\\C#\\OAiP\\WinFormsApp5\\WinFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp5\\Form1.cs",
+              "ToolTip": "D:\\Projects\\C#\\OAiP\\WinFormsApp5\\WinFormsApp5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:33:28.172Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
