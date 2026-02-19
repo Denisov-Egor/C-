@@ -1,0 +1,15 @@
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\bin\Debug\net10.0\GuessTheNumberV1.1.exe
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\bin\Debug\net10.0\GuessTheNumberV1.1.deps.json
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\bin\Debug\net10.0\GuessTheNumberV1.1.runtimeconfig.json
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\bin\Debug\net10.0\GuessTheNumberV1.1.dll
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\bin\Debug\net10.0\GuessTheNumberV1.1.pdb
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\obj\Debug\net10.0\GuessTheNumberV1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\obj\Debug\net10.0\GuessTheNumberV1.1.AssemblyInfoInputs.cache
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\obj\Debug\net10.0\GuessTheNumberV1.1.AssemblyInfo.cs
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\obj\Debug\net10.0\GuessTheNumberV1.1.csproj.CoreCompileInputs.cache
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\obj\Debug\net10.0\GuessTheNumberV1.1.sourcelink.json
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\obj\Debug\net10.0\GuessTheNumberV1.1.dll
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\obj\Debug\net10.0\refint\GuessTheNumberV1.1.dll
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\obj\Debug\net10.0\GuessTheNumberV1.1.pdb
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\obj\Debug\net10.0\GuessTheNumberV1.1.genruntimeconfig.cache
+D:\Projects\C#\PetProject\GuessTheNumberV1.1\GuessTheNumberV1.1\obj\Debug\net10.0\ref\GuessTheNumberV1.1.dll
