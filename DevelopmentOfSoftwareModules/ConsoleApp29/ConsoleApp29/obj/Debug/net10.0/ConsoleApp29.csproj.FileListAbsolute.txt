@@ -1,0 +1,15 @@
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\bin\Debug\net10.0\ConsoleApp29.exe
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\bin\Debug\net10.0\ConsoleApp29.deps.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\bin\Debug\net10.0\ConsoleApp29.runtimeconfig.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\bin\Debug\net10.0\ConsoleApp29.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\bin\Debug\net10.0\ConsoleApp29.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\obj\Debug\net10.0\ConsoleApp29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\obj\Debug\net10.0\ConsoleApp29.AssemblyInfoInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\obj\Debug\net10.0\ConsoleApp29.AssemblyInfo.cs
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\obj\Debug\net10.0\ConsoleApp29.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\obj\Debug\net10.0\ConsoleApp29.sourcelink.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\obj\Debug\net10.0\ConsoleApp29.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\obj\Debug\net10.0\refint\ConsoleApp29.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\obj\Debug\net10.0\ConsoleApp29.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\obj\Debug\net10.0\ConsoleApp29.genruntimeconfig.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp29\ConsoleApp29\obj\Debug\net10.0\ref\ConsoleApp29.dll

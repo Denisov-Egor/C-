@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\DevelopmentOfSoftwareModules\\ConsoleApp29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F388DAF-EAE7-4A59-9C0C-0B8E8F92F283}|ConsoleApp29\\ConsoleApp29.csproj|d:\\projects\\c#\\developmentofsoftwaremodules\\consoleapp29\\consoleapp29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F388DAF-EAE7-4A59-9C0C-0B8E8F92F283}|ConsoleApp29\\ConsoleApp29.csproj|solutionrelative:consoleapp29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\DevelopmentOfSoftwareModules\\ConsoleApp29\\ConsoleApp29\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp29\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\DevelopmentOfSoftwareModules\\ConsoleApp29\\ConsoleApp29\\Program.cs",
+              "RelativeToolTip": "ConsoleApp29\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:10:30.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

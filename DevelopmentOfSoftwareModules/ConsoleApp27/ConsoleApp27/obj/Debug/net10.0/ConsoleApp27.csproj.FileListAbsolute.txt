@@ -1,0 +1,15 @@
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\bin\Debug\net10.0\ConsoleApp27.exe
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\bin\Debug\net10.0\ConsoleApp27.deps.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\bin\Debug\net10.0\ConsoleApp27.runtimeconfig.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\bin\Debug\net10.0\ConsoleApp27.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\bin\Debug\net10.0\ConsoleApp27.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\obj\Debug\net10.0\ConsoleApp27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\obj\Debug\net10.0\ConsoleApp27.AssemblyInfoInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\obj\Debug\net10.0\ConsoleApp27.AssemblyInfo.cs
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\obj\Debug\net10.0\ConsoleApp27.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\obj\Debug\net10.0\ConsoleApp27.sourcelink.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\obj\Debug\net10.0\ConsoleApp27.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\obj\Debug\net10.0\refint\ConsoleApp27.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\obj\Debug\net10.0\ConsoleApp27.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\obj\Debug\net10.0\ConsoleApp27.genruntimeconfig.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp27\ConsoleApp27\obj\Debug\net10.0\ref\ConsoleApp27.dll

@@ -1,0 +1,15 @@
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\bin\Debug\net10.0\ConsoleApp32.exe
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\bin\Debug\net10.0\ConsoleApp32.deps.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\bin\Debug\net10.0\ConsoleApp32.runtimeconfig.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\bin\Debug\net10.0\ConsoleApp32.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\bin\Debug\net10.0\ConsoleApp32.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\obj\Debug\net10.0\ConsoleApp32.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\obj\Debug\net10.0\ConsoleApp32.AssemblyInfoInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\obj\Debug\net10.0\ConsoleApp32.AssemblyInfo.cs
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\obj\Debug\net10.0\ConsoleApp32.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\obj\Debug\net10.0\ConsoleApp32.sourcelink.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\obj\Debug\net10.0\ConsoleApp32.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\obj\Debug\net10.0\refint\ConsoleApp32.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\obj\Debug\net10.0\ConsoleApp32.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\obj\Debug\net10.0\ConsoleApp32.genruntimeconfig.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp32\ConsoleApp32\obj\Debug\net10.0\ref\ConsoleApp32.dll

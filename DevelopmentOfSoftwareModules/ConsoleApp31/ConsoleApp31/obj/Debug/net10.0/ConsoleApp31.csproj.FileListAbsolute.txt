@@ -1,0 +1,15 @@
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\bin\Debug\net10.0\ConsoleApp31.exe
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\bin\Debug\net10.0\ConsoleApp31.deps.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\bin\Debug\net10.0\ConsoleApp31.runtimeconfig.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\bin\Debug\net10.0\ConsoleApp31.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\bin\Debug\net10.0\ConsoleApp31.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\obj\Debug\net10.0\ConsoleApp31.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\obj\Debug\net10.0\ConsoleApp31.AssemblyInfoInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\obj\Debug\net10.0\ConsoleApp31.AssemblyInfo.cs
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\obj\Debug\net10.0\ConsoleApp31.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\obj\Debug\net10.0\ConsoleApp31.sourcelink.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\obj\Debug\net10.0\ConsoleApp31.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\obj\Debug\net10.0\refint\ConsoleApp31.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\obj\Debug\net10.0\ConsoleApp31.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\obj\Debug\net10.0\ConsoleApp31.genruntimeconfig.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp31\ConsoleApp31\obj\Debug\net10.0\ref\ConsoleApp31.dll
