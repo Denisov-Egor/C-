@@ -1,0 +1,15 @@
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\bin\Debug\net10.0\ConsoleApp37.exe
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\bin\Debug\net10.0\ConsoleApp37.deps.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\bin\Debug\net10.0\ConsoleApp37.runtimeconfig.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\bin\Debug\net10.0\ConsoleApp37.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\bin\Debug\net10.0\ConsoleApp37.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\obj\Debug\net10.0\ConsoleApp37.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\obj\Debug\net10.0\ConsoleApp37.AssemblyInfoInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\obj\Debug\net10.0\ConsoleApp37.AssemblyInfo.cs
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\obj\Debug\net10.0\ConsoleApp37.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\obj\Debug\net10.0\ConsoleApp37.sourcelink.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\obj\Debug\net10.0\ConsoleApp37.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\obj\Debug\net10.0\refint\ConsoleApp37.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\obj\Debug\net10.0\ConsoleApp37.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\obj\Debug\net10.0\ConsoleApp37.genruntimeconfig.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp37\ConsoleApp37\obj\Debug\net10.0\ref\ConsoleApp37.dll
