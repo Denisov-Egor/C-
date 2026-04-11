@@ -1,0 +1,15 @@
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\bin\Debug\net10.0\ConsoleApp40.exe
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\bin\Debug\net10.0\ConsoleApp40.deps.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\bin\Debug\net10.0\ConsoleApp40.runtimeconfig.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\bin\Debug\net10.0\ConsoleApp40.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\bin\Debug\net10.0\ConsoleApp40.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\obj\Debug\net10.0\ConsoleApp40.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\obj\Debug\net10.0\ConsoleApp40.AssemblyInfoInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\obj\Debug\net10.0\ConsoleApp40.AssemblyInfo.cs
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\obj\Debug\net10.0\ConsoleApp40.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\obj\Debug\net10.0\ConsoleApp40.sourcelink.json
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\obj\Debug\net10.0\ConsoleApp40.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\obj\Debug\net10.0\refint\ConsoleApp40.dll
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\obj\Debug\net10.0\ConsoleApp40.pdb
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\obj\Debug\net10.0\ConsoleApp40.genruntimeconfig.cache
+D:\Projects\C#\DevelopmentOfSoftwareModules\ConsoleApp40\ConsoleApp40\obj\Debug\net10.0\ref\ConsoleApp40.dll
