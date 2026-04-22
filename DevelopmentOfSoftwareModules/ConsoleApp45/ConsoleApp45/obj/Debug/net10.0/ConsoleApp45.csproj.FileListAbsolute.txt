@@ -1,0 +1,15 @@
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\obj\Debug\net10.0\ConsoleApp45.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\obj\Debug\net10.0\ConsoleApp45.AssemblyInfoInputs.cache
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\obj\Debug\net10.0\ConsoleApp45.AssemblyInfo.cs
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\obj\Debug\net10.0\ConsoleApp45.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\obj\Debug\net10.0\ConsoleApp45.sourcelink.json
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\bin\Debug\net10.0\ConsoleApp45.exe
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\bin\Debug\net10.0\ConsoleApp45.deps.json
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\bin\Debug\net10.0\ConsoleApp45.runtimeconfig.json
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\bin\Debug\net10.0\ConsoleApp45.dll
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\bin\Debug\net10.0\ConsoleApp45.pdb
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\obj\Debug\net10.0\ConsoleApp45.dll
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\obj\Debug\net10.0\refint\ConsoleApp45.dll
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\obj\Debug\net10.0\ConsoleApp45.pdb
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\obj\Debug\net10.0\ConsoleApp45.genruntimeconfig.cache
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp45\ConsoleApp45\obj\Debug\net10.0\ref\ConsoleApp45.dll

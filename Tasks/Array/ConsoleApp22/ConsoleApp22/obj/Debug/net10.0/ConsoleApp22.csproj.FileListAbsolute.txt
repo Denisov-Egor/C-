@@ -1,0 +1,15 @@
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\bin\Debug\net10.0\ConsoleApp22.exe
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\bin\Debug\net10.0\ConsoleApp22.deps.json
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\bin\Debug\net10.0\ConsoleApp22.runtimeconfig.json
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\bin\Debug\net10.0\ConsoleApp22.dll
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\bin\Debug\net10.0\ConsoleApp22.pdb
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.AssemblyInfoInputs.cache
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.AssemblyInfo.cs
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.sourcelink.json
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.dll
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\refint\ConsoleApp22.dll
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.pdb
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.genruntimeconfig.cache
+D:\Programming\CSharp\Tasks\Array\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ref\ConsoleApp22.dll
