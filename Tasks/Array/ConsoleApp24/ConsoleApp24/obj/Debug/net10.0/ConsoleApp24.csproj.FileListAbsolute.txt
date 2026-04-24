@@ -1,0 +1,15 @@
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\bin\Debug\net10.0\ConsoleApp24.exe
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\bin\Debug\net10.0\ConsoleApp24.deps.json
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\bin\Debug\net10.0\ConsoleApp24.runtimeconfig.json
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\bin\Debug\net10.0\ConsoleApp24.dll
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\bin\Debug\net10.0\ConsoleApp24.pdb
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\obj\Debug\net10.0\ConsoleApp24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\obj\Debug\net10.0\ConsoleApp24.AssemblyInfoInputs.cache
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\obj\Debug\net10.0\ConsoleApp24.AssemblyInfo.cs
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\obj\Debug\net10.0\ConsoleApp24.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\obj\Debug\net10.0\ConsoleApp24.sourcelink.json
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\obj\Debug\net10.0\ConsoleApp24.dll
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\obj\Debug\net10.0\refint\ConsoleApp24.dll
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\obj\Debug\net10.0\ConsoleApp24.pdb
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\obj\Debug\net10.0\ConsoleApp24.genruntimeconfig.cache
+D:\Programming\CSharp\Tasks\Array\ConsoleApp24\ConsoleApp24\obj\Debug\net10.0\ref\ConsoleApp24.dll
