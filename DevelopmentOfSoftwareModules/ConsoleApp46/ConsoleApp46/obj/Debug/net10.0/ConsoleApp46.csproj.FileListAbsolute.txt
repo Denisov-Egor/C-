@@ -1,0 +1,15 @@
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\bin\Debug\net10.0\ConsoleApp46.exe
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\bin\Debug\net10.0\ConsoleApp46.deps.json
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\bin\Debug\net10.0\ConsoleApp46.runtimeconfig.json
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\bin\Debug\net10.0\ConsoleApp46.dll
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\bin\Debug\net10.0\ConsoleApp46.pdb
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\obj\Debug\net10.0\ConsoleApp46.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\obj\Debug\net10.0\ConsoleApp46.AssemblyInfoInputs.cache
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\obj\Debug\net10.0\ConsoleApp46.AssemblyInfo.cs
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\obj\Debug\net10.0\ConsoleApp46.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\obj\Debug\net10.0\ConsoleApp46.sourcelink.json
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\obj\Debug\net10.0\ConsoleApp46.dll
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\obj\Debug\net10.0\refint\ConsoleApp46.dll
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\obj\Debug\net10.0\ConsoleApp46.pdb
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\obj\Debug\net10.0\ConsoleApp46.genruntimeconfig.cache
+D:\Programming\CSharp\DevelopmentOfSoftwareModules\ConsoleApp46\ConsoleApp46\obj\Debug\net10.0\ref\ConsoleApp46.dll
