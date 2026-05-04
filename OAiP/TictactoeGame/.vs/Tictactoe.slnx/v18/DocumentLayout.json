@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TictactoeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F48C36-A0D2-806A-AA88-EACE1E0500E8}|Tictactoe.csproj|e:\\tictactoegame\\singleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F48C36-A0D2-806A-AA88-EACE1E0500E8}|Tictactoe.csproj|solutionrelative:singleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F48C36-A0D2-806A-AA88-EACE1E0500E8}|Tictactoe.csproj|e:\\tictactoegame\\multiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F48C36-A0D2-806A-AA88-EACE1E0500E8}|Tictactoe.csproj|solutionrelative:multiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F48C36-A0D2-806A-AA88-EACE1E0500E8}|Tictactoe.csproj|e:\\tictactoegame\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F48C36-A0D2-806A-AA88-EACE1E0500E8}|Tictactoe.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 499,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\TictactoeGame\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "E:\\TictactoeGame\\MainMenu.cs",
+              "RelativeToolTip": "MainMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:22:29.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingleForm.cs",
+              "DocumentMoniker": "E:\\TictactoeGame\\SingleForm.cs",
+              "RelativeDocumentMoniker": "SingleForm.cs",
+              "ToolTip": "E:\\TictactoeGame\\SingleForm.cs",
+              "RelativeToolTip": "SingleForm.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAwwKUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T16:05:07.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiForm.cs",
+              "DocumentMoniker": "E:\\TictactoeGame\\MultiForm.cs",
+              "RelativeDocumentMoniker": "MultiForm.cs",
+              "ToolTip": "E:\\TictactoeGame\\MultiForm.cs",
+              "RelativeToolTip": "MultiForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwGQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T20:11:27.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

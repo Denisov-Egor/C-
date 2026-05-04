@@ -8,24 +8,19 @@
     "net10.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\EGOR\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\DEGOR\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C#\\OAiP\\WinFormsApp8\\WinFormsApp8\\WinFormsApp8.csproj",
+      "projectUniqueName": "D:\\Programming\\CSharp\\OAiP\\WinFormsApp8\\WinFormsApp8\\WinFormsApp8.csproj",
       "projectName": "WinFormsApp8",
-      "projectPath": "D:\\Projects\\C#\\OAiP\\WinFormsApp8\\WinFormsApp8\\WinFormsApp8.csproj",
-      "packagesPath": "C:\\Users\\EGOR\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C#\\OAiP\\WinFormsApp8\\WinFormsApp8\\obj\\",
+      "projectPath": "D:\\Programming\\CSharp\\OAiP\\WinFormsApp8\\WinFormsApp8\\WinFormsApp8.csproj",
+      "packagesPath": "C:\\Users\\DEGOR\\.nuget\\packages\\",
+      "outputPath": "D:\\Programming\\CSharp\\OAiP\\WinFormsApp8\\WinFormsApp8\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\EGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\DEGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -37,6 +32,7 @@
       },
       "frameworks": {
         "net10.0-windows7.0": {
+          "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
           "projectReferences": {}
         }
@@ -55,6 +51,7 @@
     },
     "frameworks": {
       "net10.0-windows7.0": {
+        "framework": "net10.0-windows7.0",
         "targetAlias": "net10.0-windows",
         "imports": [
           "net461",
@@ -75,7 +72,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
