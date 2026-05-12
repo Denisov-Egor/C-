@@ -1,0 +1,17 @@
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\bin\Debug\net10.0-windows\WinFormsApp9.exe
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\bin\Debug\net10.0-windows\WinFormsApp9.deps.json
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\bin\Debug\net10.0-windows\WinFormsApp9.runtimeconfig.json
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\bin\Debug\net10.0-windows\WinFormsApp9.dll
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\bin\Debug\net10.0-windows\WinFormsApp9.pdb
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\WinFormsApp9.FrmTicTacToe.resources
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\WinFormsApp9.csproj.GenerateResource.cache
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\WinFormsApp9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\WinFormsApp9.AssemblyInfoInputs.cache
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\WinFormsApp9.AssemblyInfo.cs
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\WinFormsApp9.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\WinFormsApp9.sourcelink.json
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\WinFormsApp9.dll
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\refint\WinFormsApp9.dll
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\WinFormsApp9.pdb
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\WinFormsApp9.genruntimeconfig.cache
+D:\Programming\CSharp\OAiP\WinFormsApp9\WinFormsApp9\obj\Debug\net10.0-windows\ref\WinFormsApp9.dll
